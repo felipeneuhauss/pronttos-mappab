@@ -1,0 +1,73 @@
+{
+  "BACK_BUTTON_TEXT": "Voltar",
+
+  "NAME": "Nome",
+  "EMAIL": "Email",
+  "USERNAME": "Nome de Usuário",
+  "PASSWORD": "Senha",
+  "LOGIN": "Entrar",
+  "SIGNUP": "Cadastre-se",
+
+  "TAB1_TITLE": "Agenda",
+  "TAB2_TITLE": "Profissionais",
+  "TAB3_TITLE": "Pacientes",
+  "TAB4_TITLE": "Clínicas",
+  "TAB5_TITLE": "Meus dados",
+
+  "MAP_TITLE": "Mapa",
+
+  "TUTORIAL_SKIP_BUTTON": "Pular",
+  "TUTORIAL_CONTINUE_BUTTON": "Continuar",
+
+  "TUTORIAL_SLIDE1_TITLE": "Seja bem vindo",
+  "TUTORIAL_SLIDE1_DESCRIPTION": "O <b>Mappa B Pronttos</b> é um aplicativo de atendimento e monitoramento remoto de pacientes.",
+
+  "TUTORIAL_SLIDE2_TITLE": "Atendimento Domiciliar",
+  "TUTORIAL_SLIDE2_DESCRIPTION": "Evolução, prescrição e conduta",
+
+  "TUTORIAL_SLIDE3_TITLE": "Atendimento Hospitalar",
+  "TUTORIAL_SLIDE3_DESCRIPTION": "Evolução, prescrição e conduta",
+
+  "TUTORIAL_SLIDE4_TITLE": "Pronto para Usar?",
+
+  "WELCOME_INTRO": "Bem vindo ao Pronttos",
+
+  "SETTINGS_TITLE": "Configurações",
+  "SETTINGS_OPTION1": "Opção 1",
+  "SETTINGS_OPTION2": "Opção 2",
+  "SETTINGS_OPTION3": "Opção 3",
+  "SETTINGS_OPTION4": "Opção 4",
+
+  "SETTINGS_PROFILE_BUTTON": "Editar Perfil",
+
+  "SETTINGS_PAGE_PROFILE": "Editar Perfil",
+
+  "WELCOME_TITLE": "Bem-vindo",
+
+  "LOGIN_TITLE": "Entrar",
+  "LOGIN_ERROR": "Não foi possível entrar na sua conta. Verifique seus dados e tente novamente.",
+  "LOGIN_BUTTON": "Entrar",
+  "SIGNUP_TITLE": "Cadastre-se",
+  "SIGNUP_ERROR": "Não foi possível criar sua conta. Verifique seus dados e tente novamente.",
+  "SIGNUP_BUTTON": "Cadastre-se",
+
+  "LIST_MASTER_TITLE": "Itens",
+
+  "ITEM_CREATE_TITLE": "Novo Item",
+  "ITEM_CREATE_CHOOSE_IMAGE": "Adicionar Imagem",
+
+  "ITEM_NAME_PLACEHOLDER": "Nome",
+  "ITEM_ABOUT_PLACEHOLDER": "Sobre",
+
+  "DONE_BUTTON": "Pronto",
+  "CANCEL_BUTTON": "Cancelar",
+  "DELETE_BUTTON": "Apagar",
+
+  "CARDS_TITLE": "Social",
+
+  "SEARCH_TITLE": "Busca",
+  "SEARCH_PLACEHOLDER": "Procure um item da lista, ex: \"Donald Duck\"",
+
+  "PROFESSIONALS_TITLE": "Profissionais",
+  "PATIENTS_TITLE": "Pacientes"
+}
